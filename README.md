@@ -9,5 +9,3 @@ a micro framework of PHP
 本人才疏学浅，若有问题，请不吝赐教，不胜感激!
 
 mail:guhaihong128@gmail.com
-
-qq:834689801
