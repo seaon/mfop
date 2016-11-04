@@ -1,6 +1,6 @@
 {
     "name": "seaon/mfop",
-    "type": "library",
+    "type": "project",
     "description": "A micro framework of PHP",
     "license": "MIT",
     "keywords": [
